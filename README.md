@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darshan Raju Loni</h1>
-<h3 >A passionate B.Tech CSE student at PES University in Bangalore. I am enthusiastic about technology and aspire to become a skilled software developer in the future. Here's a glimpse into my journey and the skills that define my profile:</h3> 
+<h3 >A Passionate B.Tech CSE student at PES University in Bangalore. I am enthusiastic about technology and aspire to become a skilled software developer in the future. Here's a glimpse into my journey and the skills that define my profile:</h3> 
 
 <h3 >About Me </h3>
 🎓 Pursuing B.Tech in Computer Science at PES University, Bangalore. <br>💡 Aspiring software developer with a keen interest in building innovative solutions.<br> 🌐 Constantly learning and exploring new technologies to stay ahead in the ever-evolving tech landscape.
