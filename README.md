@@ -7,7 +7,6 @@
 💻 **Aspiring Software Developer** | **AI & Full-Stack Enthusiast** | **Cloud & DevOps Explorer**  
 📧 [darshanloni16@gmail.com](mailto:darshanloni16@gmail.com) | [LinkedIn](https://linkedin.com/in/darshan-loni) | [Portfolio](https://darshan-loni-portfolio.vercel.app) | [GitHub](https://github.com/DarshanLoni)  
 
-![Profile Views](https://komarev.com/ghpvc/?username=DarshanLoni&label=Profile%20Views&color=FF6F61&style=flat)  
 
 ---
 
@@ -99,3 +98,8 @@ My development philosophy is centered on **clean code**, **scalable architecture
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/darshan-loni)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://darshan-loni-portfolio.vercel.app)  
 [![Email](https://img.shields.io/badge/Email-darshanloni16%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:darshanloni16@gmail.com)  
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=DarshanLoni&label=Profile%20Views&color=FF6F61&style=flat)  
+
