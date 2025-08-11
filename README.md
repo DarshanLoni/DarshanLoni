@@ -90,7 +90,6 @@ My development philosophy is centered on **clean code**, **scalable architecture
 
 ## 📊 GitHub Stats
 ![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarshanLoni&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanLoni&layout=compact&theme=radical)  
 
 ---
 
